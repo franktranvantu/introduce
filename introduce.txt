@@ -14,3 +14,17 @@ I'm looking for new position because my project contract is expired with my cust
 As I got in the TecAlliance official website, TecAlliance is a full-service provider of data, services and processes, they combine passion for Data & IT with passion for automotive technology and I'm a technology passionate also, so I think we are the same target
 I hope that we should give a chance to each other to more understand, I'm gonna to give my passionate to TecAlliance
 Thank you for listening
+
+My name is Tu, I have almost 8 years as a Java software engineer and have worked on 3 companies, the first is DXC Vietnam, the second is Code88 and the current is Larion with banking, gaming platform and application persistence domains, my current stacks are use Java and Spring framework to implement enterise web application using mongodb and then use Jenkins to extract docker images and then deploy into kubernates environment.
+
+Research to find out steps to persist a new application into Windows devices.
+Define final workflow to assign the devices follow these instruction to start installing automatically.
+Monitor devices health check for installed application.
+Implement internal tool to speed up persisting a new application.
+Design and implement new web service API for new requirements.
+Monitor and analyze metric to find out the root cause and fix ASAP if something went wrong.
+Coding review cross team members.
+Im eager to learn new technology and Im a quite friendly person, I always open to help others
+
+If suitable I want to stick company for a long term and my orientation is to be a leader in next 3 years and a technical architect in next 10 years.
+
